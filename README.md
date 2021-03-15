@@ -37,7 +37,7 @@ Here's an example I rated unacceptable; Eye Tracking, f2.8, STM
 ![Eye Tracking, f2.8, STM](photos/20210315-0039.jpg)
 ![Eye Tracking, f2.8, STM - Eye Detail](photos/20210315-0039-2.jpg)
 
-The rating of photos is subjective specially the difference between excellent and acceptable.
+The rating of photos is subjective especially the difference between excellent and acceptable.
 
 ## Conclusion
 
